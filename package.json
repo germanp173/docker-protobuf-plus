@@ -2,6 +2,10 @@
   "name": "docker-protobuf-plus",
   "version": "1.0.1",
   "description": "Docker protocol buffers builder",
+  "scripts": {
+    "version": "git add --all",
+    "postversion": "git push && git push --tags"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/germanp173/docker-protobuf-plus.git"
