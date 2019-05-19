@@ -4,4 +4,5 @@ LABEL name="protoc-plus"
 RUN apk --no-cache add --update \
         nodejs \
         nodejs-npm \
-        maven
+        maven \
+        openjdk8

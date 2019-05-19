@@ -6,3 +6,4 @@ Docker Protocol Buffers builder built on top of [znly/protoc](https://hub.docker
 
 * Node JS
 * Maven
+* Open JDK 8
