@@ -1,0 +1,15 @@
+{
+  "name": "docker-protobuf-plus",
+  "version": "1.0.0",
+  "description": "Docker protocol buffers builder",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/germanp173/docker-protobuf-plus.git"
+  },
+  "author": "German Pineda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/germanp173/docker-protobuf-plus/issues"
+  },
+  "homepage": "https://github.com/germanp173/docker-protobuf-plus#readme"
+}
